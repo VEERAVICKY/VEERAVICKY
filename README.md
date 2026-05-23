@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VEERAVICKY
+- 👋 Hi, I’m Veera
 - 👀 I’m interested in  web development and Data Base Management
 - 🌱 I’m currently learning  Front end development
 - 💞️ I’m looking to collaborate on ...
